@@ -1,0 +1,1 @@
+pyinstaller automacaoAD.py --onefile --icon=images.ico
